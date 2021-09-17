@@ -3,9 +3,9 @@
 - 🌱 I’m currently learning MongoDB
 
 - 📫 How to reach me 
-Linkdin-https://www.linkedin.com/in/piyush-kumar-09/
+Linkedin-https://www.linkedin.com/in/piyush-kumar-09/
 
-Email-iampiyushkr@gmail.com
+Email -iampiyushkr@gmail.com
 
 
 
